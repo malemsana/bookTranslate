@@ -1,0 +1,7 @@
+# File: requirements.txt
+
+google-generativeai
+ebooklib
+PyMuPDF
+beautifulsoup4
+python-dotenv
